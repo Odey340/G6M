@@ -19,6 +19,3 @@ This is a simple command-line calculator written in OCaml. It supports addition,
 - Subtraction
 - Multiplication
 - Division (with division by zero check)
-
-## License
-MIT
