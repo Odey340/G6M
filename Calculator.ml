@@ -21,35 +21,3 @@ let () =
     | _ -> failwith "Unknown operator"
   in
   Printf.printf "Result: %d\n" result
-(* OCaml build artifacts *)
-(*
-*.cmo
-*.cmi
-*.cmx
-*.o
-*.out
-*.exe
-*.annot
-*.byte
-*.native
-*)
-
-(* Dune build directory *)
-(*
-/_build/
-*)
-
-(* Merlin editor support files *)
-(*
-*.merlin
-*)
-
-(* VS Code settings *)
-(*
-.vscode/
-*)
-
-(* Other common ignores *)
-(*
-*.log
-*)
